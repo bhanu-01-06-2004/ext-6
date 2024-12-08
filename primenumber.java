@@ -1,4 +1,4 @@
-public class PrimeNumbers {
+public class primenumber {
     public static void main(String[] args) {
         System.out.println("Prime Numbers from 1 to 100:");
         for (int i = 2; i <= 100; i++) {
